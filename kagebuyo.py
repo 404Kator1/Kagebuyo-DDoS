@@ -813,7 +813,7 @@ def help():
     stdout.write("             "+Fore.GREEN                   +"╠═════════════════════════════════════════════════════╣\n")
     stdout.write("             "+Fore.GREEN                   +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"THANK    "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Thanks for using KAGEBUYO.             "+Fore.GREEN+"║\n")
     stdout.write("             "+Fore.GREEN                   +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"YOU      "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Please star project :>                 "+Fore.GREEN+"║\n")
-    stdout.write("             "+Fore.GREEN                   +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/HyukIsBack/KARMA-DDoS       "+Fore.GREEN+"║\n")
+    stdout.write("             "+Fore.GREEN                   +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/404Kator1/Kagebuyo-DDoS     "+Fore.GREEN+"║\n")
     stdout.write("             "+Fore.GREEN                   +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
